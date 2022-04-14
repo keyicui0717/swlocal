@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 
 ### Usage: python3 swlocal.py -i <input file> -s <score file>
 ### Example: python3 swlocal.py -i sample-input.txt -s blosum62.txt
