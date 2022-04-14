@@ -1,6 +1,6 @@
 # Smith-Waterman Local Alignment
 
-## The Smith-Waterman algorithm preforms local alignment between two sequences. It is a variaiton of a dynamic programming algorithm finds the optial local alignment with respect to the specified scoring system.
+## The Smith-Waterman algorithm preforms local alignment between two sequences. It is a variaiton of a dynamic programming algorithm and finds the optimal local alignment with respect to the specified scoring system.
 
 
 
@@ -8,7 +8,9 @@
 ```bash
 pip install git+https://github.com/keyicui0717/swlocal.git
 ```
-
+## Requirements
+* numpy
+  
 ## Usage
 Run program from command-line.
 ```bash
